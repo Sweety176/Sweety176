@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Laxmi, an AI enthusiast having specialization in Machine Learning and Deep Learning
 - 👀 I’m interested in AI & Ml, Cloud Data Analytics(Azure and AWS), Pattern recognition using python
-- 🌱 I’m currently working as Senior Data Scientist
+- 🌱 I’m currently working as  ML Scientist
 - 💞️ I’m looking to collaborate on python environment in Azure and AWS.
 - 📫 How to reach me at laxmi.shaw22@gmail.com
 
