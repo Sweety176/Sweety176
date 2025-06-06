@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI & ML, Cloud Data Analytics(Azure,AWS and GCP), Pattern recognition using python
 - 🌱 I’m currently working as  ML Scientist
 - 💞️ I’m looking to collaborate on Python environment in Azure and AWS.
-- 📫 How to reach me at laxmi.shaw22@gmail.com
+- 📫 How to reach me at laxmishaw1983@gmail.com
 
 <!---
 Sweety176/Sweety176 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
